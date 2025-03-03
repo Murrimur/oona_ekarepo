@@ -1,2 +1,0 @@
-var getImput = "ahahah ye right";
-Console.WrileLine(getInput);
